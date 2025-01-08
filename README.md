@@ -4,6 +4,6 @@
 --> Live Color Selection: Choose colors dynamically using an interactive picker.                                                                                                  
 --> Hex Codes: Instantly display the selected color in HEX and RGB formats.                                                                                                           
 --> NTC Integration: Automatically generate color names based on the selected HEX value.                                                                                          
---> Visit the Live Link: 
+--> Visit the Live Link: https://deepfrontend07.github.io/Color_Picker_App/
                                                                                                     
                                                                                                  
