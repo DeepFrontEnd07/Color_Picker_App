@@ -1,2 +1,5 @@
 # Color_Picker_App
-This is a simple and interactive Color Picker App built with JavaScript, HTML, and CSS. Users can choose any color using an input color picker, and the app displays the selected color along with its HEX code and Color Name.
+🚀 Features                                                                                                                                                                       
+--> A simple and interactive Color Picker application built using HTML, CSS, JavaScript. This app allows users to select colors, view their hex and RGB codes, and copy them for use in other applications or designs.                                                                                                                                              
+--> Live Color Selection: Choose colors dynamically using an interactive picker.                                                                                                  
+--> Hex & RGB Codes: Instantly display the selected color in HEX and RGB formats.                                                                                                 
